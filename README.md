@@ -172,3 +172,9 @@ A private capsule is delivered via the NIP-59 pipeline:
 - **Timestamps & privacy:** Randomize seal/wrap `created_at` slightly (e.g., jitter/backdate) for metadata privacy; the rumor’s `created_at` is canonical for UX.
 
 ---
+
+## Implementations
+
+- **Relay** [**Shugur Relay**] (<https://github.com/Shugur-Network/relay>)
+- **Client** [**Shugur Time Capsules**] (<https://capsules.shugur.com>)
+
