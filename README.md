@@ -175,6 +175,6 @@ A private capsule is delivered via the NIP-59 pipeline:
 
 ## Implementations
 
-- **Relay** [**Shugur Relay**] (<https://github.com/Shugur-Network/relay>)
-- **Client** [**Shugur Time Capsules**] (<https://capsules.shugur.com>)
+- **Relay** [**Shugur Relay**](<https://github.com/Shugur-Network/relay>)
+- **Client** [**Shugur Time Capsules**](<https://capsules.shugur.com>)
 
